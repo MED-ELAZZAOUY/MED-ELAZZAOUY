@@ -4,7 +4,7 @@
 <tr>
   <td valign="center">
     🎓 I’m currently learning <b>Distributed Computing Systems and Big Data</b>.<br>
-    ❤️ I love writing <b>JAVA</b>, and building fun experiments on type-level
+    ❤️ I love writing <b>JAVA</b>, and building fun experiments on type-level.<br>
     🎯 I’m looking to <b>collaborate with other Developers</b>.<br>
     💬 Ask me about <b>anything</b>, I am <b>happy to help</b>.<br>
     ✨ I try to: Go <b>beyond and push the bounds</b>.
